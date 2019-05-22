@@ -7,6 +7,8 @@ public class TestMapFilter {
 
 	public static void main(String[] args) {
 		
+		int mariana;
+		
 		Map<Integer, String> HOSTING = new HashMap<>();
 		
 		HOSTING.put(1, "www.youtube.com");
