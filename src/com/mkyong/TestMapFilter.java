@@ -11,7 +11,6 @@ public class TestMapFilter {
 		
 		HOSTING.put(1, "www.youtube.com");
 		HOSTING.put(2, "www.facebook.com");
-		HOSTING.put(3, "www.instagram.com");
 		
 	}
 
